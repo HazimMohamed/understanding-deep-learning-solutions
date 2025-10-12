@@ -1,0 +1,10 @@
+.cache
+.config
+.git
+.gitconfig
+.ipynb_checkpoints
+.ipython
+.jupyter
+.local
+.npm
+.ssh
